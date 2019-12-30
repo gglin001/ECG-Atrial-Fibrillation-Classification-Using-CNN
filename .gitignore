@@ -1,0 +1,10 @@
+.vscode/
+
+# data
+aftdb/
+test_set/
+train_set/
+df_test_set.pickle
+df_train_set.pickle
+
+#
